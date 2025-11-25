@@ -1,14 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
+🏫 Harbin Institute of Technology (Shenzhen) - Bachelor of Engineering in Automation (2023.08 - 2027.06)
+💻 Open-sourced control problem framework for NUEDC（电赛） & Robocon2026 simulation (academic competition codes)
 🌱 I’m currently learning RL
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kuriharamio&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kuriharamio&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuriharamio&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kuriharamio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
