@@ -1,8 +1,11 @@
 # Hi there 👋 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Kuriharamio.Kuriharamio)
 ## 💫 About Me:
+
 🏫 Harbin Institute of Technology (Shenzhen) - Bachelor of Engineering in Automation (2023.08 - 2027.06)
+
 💻 Open-sourced control problem framework for NUEDC（电赛） & Robocon2026 simulation (academic competition codes)
+
 🌱 I’m currently learning RL
 
 ## 📊 GitHub Stats:
