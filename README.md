@@ -16,6 +16,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🧑‍🍼 Visitors
+![](https://visitor-badge.laobi.icu/badge?page_id=Kuriharamio.Kuriharamio)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
