@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning RL
+
+![Profile Views](https://profile-counter.glitch.me/Kuriharamio/count.svg)
 <!--
 **Kuriharamio/Kuriharamio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
