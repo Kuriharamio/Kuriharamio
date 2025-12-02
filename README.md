@@ -11,7 +11,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kuriharamio&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kuriharamio&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuriharamio&hide=html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuriharamio)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kuriharamio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
