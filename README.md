@@ -9,8 +9,10 @@
 🌱 I’m currently learning RL
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kuriharamio&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&hide=html)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kuriharamio&theme=cobalt&hide_border=false&hide=html)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kuriharamio&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&hide=html)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Kuriharamio&theme=cobalt&hide_border=false&hide=html)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuriharamio&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html)
 
 ## 🏆 GitHub Trophies
