@@ -48,3 +48,11 @@
 - 📧 &nbsp; Email: Kurihara.mio1026@gmail.com
 
 <br clear="right"/>
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy">
+
+### 📈 GitHub Activity
+<a href="https://github.com/Kuriharamio">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuriharamio&theme=cobalt&bg_color=00000000&hide_border=true" width="100%">
+</a>
