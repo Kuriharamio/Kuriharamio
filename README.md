@@ -8,7 +8,7 @@
 
 - 🏫 &nbsp; **Education:** Harbin Institute of Technology, Shenzhen &nbsp;|&nbsp; *Automation (2023.08 - 2027.06)*
 - 💻 &nbsp; **Competitions:** Developed open-source control frameworks for NUEDC & Robocon 2026 simulation.
-- 🌱 &nbsp; **Current Focus:** Deeply exploring Reinforcement Learning and advanced intelligent control systems.
+- 🌱 &nbsp; **Current Focus:** Exploring Reinforcement Learning and advanced intelligent control systems.
 - 💼 &nbsp; **Interests:** Robotics enthusiast.
 
 [<img align="right" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kuriharamio&theme=cobalt&hide_border=false&layout=compact"/>](https://github.com/Kuriharamio/)
