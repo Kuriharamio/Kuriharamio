@@ -49,8 +49,9 @@
 
 <br clear="right"/>
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy">
+</p>
 
 ### 📈 GitHub Activity
 <a href="https://github.com/Kuriharamio">
