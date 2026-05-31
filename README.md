@@ -48,12 +48,23 @@
 - 📧 &nbsp; Email: Kurihara.mio1026@gmail.com
 
 <br clear="right"/>
-
+<!--
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy">
 </p>
+-->
+<h3> 📈 GitHub Activity </h3>
 
-### 📈 GitHub Activity
 <a href="https://github.com/Kuriharamio">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuriharamio&theme=cobalt&bg_color=00000000&hide_border=true" width="100%">
 </a>
+
+<h3> 🐍 Contribution Snake </h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kuriharamio/Kuriharamio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kuriharamio/Kuriharamio/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kuriharamio/Kuriharamio/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
