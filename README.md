@@ -59,7 +59,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuriharamio&theme=cobalt&bg_color=00000000&hide_border=true" width="100%">
 </a>
 
-<h3> 🐍 Contribution Snake </h3>
 
 <p align="center">
   <picture>
