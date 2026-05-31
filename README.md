@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🏫 &nbsp; **Education:** Harbin Institute of Technology, Shenzhen &nbsp;|&nbsp; *Automation (2023.08 - 2027.06)*
-- 💻 &nbsp; **Research & Competitions:** Developed open-source control frameworks for NUEDC & Robocon 2026 simulation.
+- 💻 &nbsp; **Competitions:** Developed open-source control frameworks for NUEDC & Robocon 2026 simulation.
 - 🌱 &nbsp; **Current Focus:** Deeply exploring Reinforcement Learning and advanced intelligent control systems.
 - 💼 &nbsp; **Interests:** Robotics enthusiast.
 
@@ -17,7 +17,7 @@
 
 - 🤖&nbsp;
   ![Reinforcement Learning](https://img.shields.io/badge/RL-333333?style=flat-square&logo=pytorch&logoColor=white)
-  ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square&logo=googledeepmind&logoColor=white)
+  ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square&logo=deepmind&logoColor=white)
   ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-333333?style=flat-square&logo=nvidia&logoColor=76B900)
   ![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-333333?style=flat-square&logo=nvidia&logoColor=76B900)
   ![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-333333?style=flat-square&logo=nvidia&logoColor=76B900)
@@ -29,7 +29,7 @@
   ![STM32](https://img.shields.io/badge/STM32-333333?style=flat-square&logo=stmicroelectronics&logoColor=03234B)
   ![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=E7352C)
   ![Arduino](https://img.shields.io/badge/Arduino-333333?style=flat-square&logo=arduino&logoColor=00979D)
-  ![TI MCU](https://img.shields.io/badge/TI_MCU-333333?style=flat-square&logo=microcontroller&logoColor=CC0000)
+  ![TI MCU](https://img.shields.io/badge/TI_MCU-333333?style=flat-square&logo=arm&logoColor=CC0000)
 - ⚙️&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=FCC624)
   ![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=F05032)
@@ -39,6 +39,10 @@
   ![Keil](https://img.shields.io/badge/Keil-333333?style=flat-square&logo=arm&logoColor=0091BD)
 
 [<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Kuriharamio&theme=cobalt&hide_border=false"/>](https://github.com/Kuriharamio/)
+
+<h3> 📺 &nbsp;Video & Media </h3>
+
+- 🎬 &nbsp; Check out project demos on my  [Bilibili space](https://space.bilibili.com/419016410)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
