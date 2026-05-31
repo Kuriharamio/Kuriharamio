@@ -20,7 +20,6 @@
   ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square&logo=deepmind&logoColor=white)
   ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-333333?style=flat-square&logo=nvidia&logoColor=76B900)
   ![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-333333?style=flat-square&logo=nvidia&logoColor=76B900)
-  ![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-333333?style=flat-square&logo=nvidia&logoColor=76B900)
 - 💻&nbsp;
   ![C++](https://img.shields.io/badge/C/C++-333333?style=flat-square&logo=cplusplus&logoColor=00599C)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=3776AB)
